@@ -22,17 +22,12 @@
 Sistema de gerenciamento de newsletters com autenticação e painel administrativo.  
 Tecnologias: Node.js • Express • MongoDB • JWT • Cloudinary
 
-🔸 [**Sistema para Casa de Shows**](https://github.com/guissx) *(repositório acadêmico)*  
-Projeto de 1 ano desenvolvido durante a Trilha Profissional Tecnogestora.  
-Front-end em Next.js e back-end RESTful com Node.js + SQL Server.
-
 🔸 [Outros projetos públicos](https://github.com/guissx?tab=repositories)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=guissx&show_icons=true&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guissx&layout=compact)
 
 ---
@@ -50,8 +45,7 @@ Front-end em Next.js e back-end RESTful com Node.js + SQL Server.
 
 ## 📬 Entre em contato
 
-📧 [Email](mailto:seuemail@email.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario) *(adicione seu link aqui)*  
-🌐 [Portfólio](https://seu-site.com) *(caso tenha)*
+📧 [Email](gugacabral03@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-ferreira-068aa3272/) 
 
 ---
