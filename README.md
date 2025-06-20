@@ -10,7 +10,7 @@
 
 - **Linguagens**: TypeScript • JavaScript • Java • Python • C • C++ • SQL  
 - **Front-End**: React • Next.js • HTML • CSS • Tailwind CSS  
-- **Back-End**: Node.js • Express • REST APIs  
+- **Back-End**: Node.js • Express • REST APIs • FastAPI  
 - **Banco de Dados**: PostgreSQL • MongoDB • SQL Server  
 - **Outros**: Git • GitHub • Cloudinary • JWT • Docker (básico)
 
