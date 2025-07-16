@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Gustavo Ferreira Cabral
 
-🎓 Estudante do 7º semestre de Engenharia de Computação no SENAI CIMATEC  
+🎓 Estudante do 8º semestre de Engenharia de Computação no SENAI CIMATEC  
 💻 Desenvolvedor Full Stack com foco em Back-End e Arquitetura de Sistemas  
 🚀 Apaixonado por tecnologia, inovação e soluções escaláveis
 
