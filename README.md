@@ -1,23 +1,32 @@
-# 👋 Olá! Eu sou o Gustavo Ferreira Cabral
+<!-- Banner animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Olá!+Eu+sou+o+Gustavo+Ferreira+Cabral;💻+Desenvolvedor+Full+Stack+%7C+Eng.+Computação;🚀+Apaixonado+por+Tecnologia%2C+IA+e+Inovação" alt="Typing SVG" />
+</p>
 
-🎓 Estudante do 8º semestre de Engenharia de Computação no SENAI CIMATEC  
-💻 Desenvolvedor Full Stack com foco em Back-End e Arquitetura de Sistemas  
-🚀 Apaixonado por tecnologia, inovação e soluções escaláveis
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ferreira-068aa3272/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guissx)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gugacabral03@gmail.com)
+<h3 align="center">🎓 Estudante do 8º semestre de Engenharia de Computação – SENAI CIMATEC</h3>
+<h4 align="center">💻 Desenvolvedor Full Stack com foco em Back-End, Arquitetura de Sistemas e Inteligência Artificial</h4>
+
+---
+
+<!-- Badges de contato -->
+<p align="center">
+  <a href="mailto:gugacabral03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gustavo-ferreira-068aa3272/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/guissx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
-### **Linguagens de Programação**
+### **Linguagens**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Front-End**
@@ -28,74 +37,94 @@
 ### **Back-End & Bancos de Dados**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### **Ferramentas & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
-## 💼 Experiência Profissional
+## 🤖 Utilização de IA
+
+Ferramentas que utilizo para estudo, otimizar produtividade, prototipar soluções e como auxiliar para desenvolver aplicações:
+- **ChatGPT** – Criação de soluções, documentação e automação de código  
+- **DeepSeek** – IA para análise de dados e insights técnicos  
+- **Claude** – Geração de textos e apoio em raciocínio lógico e código  
+- **Lovable AI** – Criação rápida de interfaces e protótipos  
+- **Copilot** – Auxílio na escrita de código com sugestões inteligentes  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="AI Processing"/>
+</p>
+
+
+
+
+
+---
+
+## 💼 Experiência
 
 **CIMATEC Jr** | *Coordenador de Projetos & Responsável Financeiro*  
-*(08/2022 - 04/2024)*  
-- Liderança técnica em projetos web usando React, TypeScript e Node.js  
-- Gestão de equipes ágeis (Scrum) e relacionamento com clientes  
-- Desenvolvimento de sistemas full-stack com arquitetura escalável  
+📅 *(08/2022 – 04/2024)*  
+- Liderança técnica em projetos web usando **React**, **TypeScript**, **Node.js** e **FastAPI**  
+- Gestão de equipes ágeis (**Scrum**) e relacionamento com clientes  
+- Desenvolvimento de sistemas **full-stack** com **arquitetura escalável**
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### **NewsLetter Backend** [![GitHub](https://img.shields.io/badge/-Repositório-181717?style=flat&logo=github)](https://github.com/guissx/NewsLetter-Backend)
-Sistema completo de newsletter com:
-- Autenticação JWT  
-- Upload de imagens com Cloudinary  
+### 📩 **NewsLetter Backend**
+[![GitHub](https://img.shields.io/badge/-Repositório-181717?style=flat&logo=github)](https://github.com/guissx/NewsLetter-Backend)  
+- Autenticação **JWT**  
+- Upload de imagens com **Cloudinary**  
 - Painel administrativo  
-- MongoDB para armazenamento  
+- Banco de dados **MongoDB**  
+**Stack**: Node.js · Express · MongoDB · TypeScript
 
-**Tecnologias**: Node.js · Express · MongoDB · TypeScript  
+---
 
-### **Colaboraê** [![GitHub](https://img.shields.io/badge/-Repositório-181717?style=flat&logo=github)](https://github.com/guissx)
-Sistema para gestão de casas de show:
-- Backend em Node.js + SQL Server  
-- Frontend com Next.js e Tailwind  
-- Modelagem de banco de dados relacional  
+### 🎭 **Colaboraê**
+[![GitHub](https://img.shields.io/badge/-Repositório-181717?style=flat&logo=github)](https://github.com/guissx)  
+- Gestão de casas de show  
+- Backend em **Node.js** + **SQL Server**  
+- Frontend com **Next.js** e **Tailwind CSS**
 
-### **Canindé** 
-Sistema web para empresa júnior de design:
-- Integração front-end/back-end  
-- Lógica de autenticação  
-- React + TypeScript + Tailwind CSS  
+---
 
-[🔍 Ver todos os projetos](https://github.com/guissx?tab=repositories)
+### 🎨 **Canindé**
+- Sistema web para empresa júnior de design  
+- Integração front-end/back-end e autenticação  
+- **React** + **TypeScript** + **Tailwind CSS**
 
 ---
 
 ## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guissx&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guissx&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guissx&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guissx&layout=compact&theme=radical" height="165"/>
+</p>
 
 ---
 
 ## 📚 Áreas de Interesse
-
 - **Inteligência Artificial**: ML · Deep Learning · NLP  
-- **Engenharia de Software**: Arquitetura de Microsserviços · Sistemas Distribuídos  
+- **Engenharia de Software**: Microsserviços · Sistemas Distribuídos  
 - **DevOps**: CI/CD · Cloud Computing (AWS/GCP)  
 - **Bancos de Dados**: Otimização · Modelagem Avançada  
 
 ---
 
-## 📬 Vamos conversar?
+## 📬 Vamos Conversar?
+📧 [Email](mailto:gugacabral03@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-ferreira-068aa3272/) • 💻 [GitHub](https://github.com/guissx)  
 
-Estou sempre aberto a colaborações e oportunidades desafiadoras. Me envie uma mensagem!
+---
 
-[![Email](https://img.shields.io/badge/Email-gugacabral03@gmail.com-D14836?style=flat&logo=gmail)](mailto:gugacabral03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Ferreira-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gustavo-ferreira-068aa3272/)
+✨ *"Sempre aprendendo, sempre construindo."*
