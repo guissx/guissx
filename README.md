@@ -106,14 +106,6 @@ Ferramentas que utilizo para estudo, otimizar produtividade, prototipar soluçõ
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guissx&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guissx&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ## 📚 Áreas de Interesse
 - **Inteligência Artificial**: ML · Deep Learning · NLP  
 - **Engenharia de Software**: Microsserviços · Sistemas Distribuídos  
