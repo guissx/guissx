@@ -5,7 +5,7 @@
 
 ---
 
-<h3 align="center">🎓 Estudante do 8º semestre de Engenharia de Computação – SENAI CIMATEC</h3>
+<h3 align="center">🎓 Estudante do 9º semestre de Engenharia de Computação – SENAI CIMATEC</h3>
 <h4 align="center">💻 Desenvolvedor Full Stack com foco em Back-End, Arquitetura de Sistemas e Inteligência Artificial</h4>
 
 ---
