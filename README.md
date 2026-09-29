@@ -87,7 +87,7 @@ Beyond consuming AI tools, I build systems on top of them:
 
 ## 💼 Experience
 
-**Esportiva.bet** — *Full Stack Developer* · 📅 01/2026 – Present
+**EA Entretenimento** — *Full Stack Developer* · 📅 01/2026 – Present
 - Microservices and scalable backend infrastructure processing massive data volumes for online betting platforms (BI, CRM, ERP) — Node.js (Express, Fastify), NestJS, Python
 - Analytics layer on Databricks/Spark SQL: performance reporting, fraud detection queries, real-time dashboards and scheduled metric pipelines
 - Third-party API integrations, n8n automation workflows and relational database modeling (Metabase, Databricks, Supabase)
@@ -104,40 +104,6 @@ Beyond consuming AI tools, I build systems on top of them:
 - Technical leadership on web projects using React, TypeScript, Node.js and FastAPI
 - Agile team management (Scrum), client relationships and commercial operations
 
----
-
-## 🚀 Featured Projects
-
-### 🧬 Morphiris — Generative UI Platform
-Generative UI / SaaS platform built as a full-stack architecture reference.
-- **RAG and agent pipelines** over Supabase Postgres with `pgvector`
-- Background job processing with **BullMQ + Redis**, analytical queries with **DuckDB**
-- **pnpm monorepo** orchestrated with Turborepo
-- **Stack**: NestJS (Fastify adapter) · Next.js / React 19 · Supabase · Redis · TypeScript
-
----
-
-### 📩 NewsLetter Backend
-[![GitHub](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/guissx/NewsLetter-Backend)
-- **JWT** authentication and role-based admin panel
-- Image upload pipeline via **Cloudinary**
-- **Stack**: Node.js · Express · MongoDB · TypeScript
-
----
-
-### 🎭 Colaboraê — Venue Management
-[![GitHub](https://img.shields.io/badge/-Repository-181717?style=flat&logo=github)](https://github.com/guissx)
-- Management system for live music venues and event scheduling
-- **Stack**: Node.js · SQL Server · Next.js · Tailwind CSS
-
----
-
-### 🎨 Canindé — Design Agency Platform
-- Web system for a design-focused junior enterprise
-- Front-end/back-end integration with authentication flows
-- **Stack**: React · TypeScript · Tailwind CSS
-
----
 
 ## 📊 GitHub Stats
 
